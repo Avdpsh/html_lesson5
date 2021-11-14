@@ -208,12 +208,10 @@
 			/* нижняя часть - footer */ 
 			footer 
 					{
-          
 					height:40px;
 					padding:25px 25px 0;
 					margin:20px 0 0;
 					border-top:1px solid #0E6994;
-          background:#2ca9e4;
 					} 
 						/* меню навигации */ 
 			footer li 
@@ -225,7 +223,6 @@
 					{
 					font-weight:bold;
 					text-decoration:none;
-					color:#fff;
 					} 
 			footer a:hover 
 						{
